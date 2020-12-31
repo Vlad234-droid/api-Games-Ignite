@@ -4,6 +4,15 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
+
+# api-Games-Ignite
+Just have some fun finding your favorite games =)
+
+1. git clone the project
+2. run in terminal npm install
+3. after run in terminal npm start
+
+
 In the project directory, you can run:
 
 ### `npm start`
